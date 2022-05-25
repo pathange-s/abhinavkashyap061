@@ -9,7 +9,7 @@
 
 <!-- ABOUT -->
 ## 📝 About
-- I'm currently a third year student at KIIT, Bhubaneswar pursuing Electronics and Electrical Engineering.
+- I'm currently a third year student pursuing Electronics and Electrical Engineering @ KIIT, Bhubaneswar.
 
 <!-- GITHUB STATS -->
 ## 📊 GitHub Stats
