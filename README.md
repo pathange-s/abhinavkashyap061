@@ -11,6 +11,13 @@
 ## 📝 About
 - I'm currently a third year student at KIIT, Bhubaneswar pursuing Electronics and Electrical Engineering.
 
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavkashyap061&show_icons=true&theme=dark" width="48%" alt="Abhinav's Github stats-1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkashyap061&theme=dark" width="48%" alt="Abhinav's GitHub stats-2"/>
+</p>
+
 <!--
 **abhinavkashyap061/abhinavkashyap061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
