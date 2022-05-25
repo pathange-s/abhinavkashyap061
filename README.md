@@ -1,9 +1,11 @@
 <!-- INTRO -->
 ## Hi there, I'm Abhinav <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/assets/hi.gif?raw=true" width="35px" alt="Waving Hand gif">
-<img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/assets/gilfoyle-coffee.gif?raw=true" alt="Coffee is my favourite" width="100%">
 <a href="https://abhinavkashyap061.github.io/">Website</a> •
 <a href="https://twitter.com/intent/follow?screen_name=abhinavstwt&tw_p=followbutton/">Twitter</a> •
 <a href="https://www.linkedin.com/in/abhinavkashyap061/">LinkedIn</a>
+<p align="center">
+    <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/assets/gilfoyle-coffee.gif?raw=true" alt="Coffee is my favourite" width="100%">
+</p>
 
 <!-- ABOUT -->
 ## 📝 About
