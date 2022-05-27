@@ -1,5 +1,5 @@
 <!-- INTRO -->
-## Hi there, I'm Abhinav <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/assets/hi.gif?raw=true" width="35px" alt="Waving Hand gif">
+## Hi there, I'm Abhinav <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/hi.gif?raw=true?raw=true" width="35px" alt="Waving Hand gif">
 
 <p align="center">
     <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/abhinav-github-banner.png?raw=true" alt="Abhinav's GitHub Banner" width="100%">
