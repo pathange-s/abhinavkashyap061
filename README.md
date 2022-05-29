@@ -1,5 +1,5 @@
 <!-- INTRO -->
-## Hi there, I'm Abhinav <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/hi.gif?raw=true?raw=true" width="35px" alt="Waving Hand gif">
+### Hi there, I'm Abhinav <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/hi.gif?raw=true?raw=true" width="35px" alt="Waving Hand gif">
 
 <p align="center">
     <img src="https://github.com/abhinavkashyap061/abhinavkashyap061/blob/main/readme-assets/Abhinav%20Kashyap%20Banner.gif?raw=true" alt="Abhinav's GitHub Banner" width="100%">
@@ -11,7 +11,7 @@
 
 
 <!-- ABOUT -->
-## 📝 About
+### 📝 About
 - 🔭 I'm currently a third year student pursuing Electronics and Electrical Engineering @ [KIIT](https://kiit.ac.in/), Bhubaneswar.
 - 🌱 I’m currently learning **Web development**.
 - 👯 I’m looking to collaborate on **Open Source projects**.
@@ -19,7 +19,7 @@
 
 
 <!-- GITHUB STATS -->
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhinavkashyap061&show_icons=true&theme=dark" width="48%" alt="Abhinav's Github stats-1"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkashyap061&theme=dark" width="48%" alt="Abhinav's GitHub stats-2"/>
