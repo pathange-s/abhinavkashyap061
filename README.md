@@ -25,12 +25,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavkashyap061&theme=dark" width="48%" alt="Abhinav's GitHub stats-2"/>
 </p>
 
-<!-- RECENT ACTIVITY -->
-### ⚡ Recent Activity
-<!-- START_SECTION:activity -->
-
-<!-- END_SECTION:activity -->
-
 
 <!--
 **abhinavkashyap061/abhinavkashyap061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
